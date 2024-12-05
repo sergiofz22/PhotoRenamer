@@ -34,14 +34,10 @@ Este proyecto es una aplicación de escritorio en **Python** que permite renombr
 1. **Ejecuta la aplicación**:
    - Haz doble clic en el archivo ejecutable (si ya fue generado) o usa `python main.py` desde la terminal.
 
-2. **Selecciona el método de renombrado**:
-   - **Renombrar por Fecha de Captura**: Las fotos serán renombradas con su fecha de captura, por ejemplo: `2024-12-05_15-30-22.jpg`.
-   - **Renombrar Secuencialmente**: Las fotos serán ordenadas por fecha y renombradas como `IMG_0001.jpg`, `IMG_0002.jpg`, etc.
-
-3. **Selecciona un directorio**:
+2. **Selecciona un directorio**:
    - Navega hasta la carpeta que contiene las fotos que deseas renombrar.
 
-4. **Confirma el resultado**:
+3. **Confirma el resultado**:
    - La aplicación renombrará las fotos y mostrará un mensaje de finalización.
 
 ---
