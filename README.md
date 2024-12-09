@@ -1,4 +1,4 @@
-# Renombrador de Fotos por Fecha de Captura o Secuencia
+# Renombrador de Fotos por Fecha de Captura
 
 Este proyecto es una aplicación de escritorio en **Python** que permite renombrar fotos en un directorio según:
 1. **Fecha de captura** (extraída de los metadatos EXIF).
