@@ -51,9 +51,10 @@ Este proyecto es una aplicación de escritorio en **Python** que permite renombr
 ##  🧩 Dependencias
 Este proyecto utiliza las siguientes bibliotecas:
 
-Pillow: Para extraer y manejar los metadatos EXIF de las fotos.
-Tkinter: Para crear la interfaz gráfica.
-(Opcional) PyInstaller: Para generar el ejecutable.
+- Pillow: Para extraer y manejar los metadatos EXIF de las fotos.
+- Tkinter: Para crear la interfaz gráfica.
+- PyInstaller: Para generar el ejecutable.
+  
 Instálalas todas ejecutando:
 
 pip install -r requirements.txt
